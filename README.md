@@ -5,7 +5,8 @@ In this playground competition, hosted in partnership with Google Cloud and Cour
 The evaluation metric for this competition is the root mean-squared error or RMSE. RMSE measures the difference between the predictions of a model, and the corresponding ground truth. A large RMSE is equivalent to a large average error, so smaller values of RMSE are better. One nice property of RMSE is that the error is given in the units being measured, so you can tell very directly how incorrect the model might be on unseen data.
 
 RMSE is given by [this](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)
-#evaluation
+
+# Evaluation
 
 Kernel Submissions
 You can make submissions directly from Kaggle Kernels. By adding your teammates as collaborators on a kernel, you can share and edit code privately with them.
